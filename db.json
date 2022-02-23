@@ -1,0 +1,83 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "prod1",
+      "price": 10,
+      "quantity": 2,
+      "category": "cat1"
+    },
+    {
+      "id": 2,
+      "name": "prod2",
+      "price": 10,
+      "quantity": 2,
+      "category": "cat1"
+    },
+    {
+      "id": 3,
+      "name": "prod3",
+      "price": 10,
+      "quantity": 2,
+      "category": "cat1"
+    },
+    {
+      "id": 4,
+      "name": "prod4",
+      "price": 10,
+      "quantity": 2,
+      "category": "cat1"
+    },
+    {
+      "name": "asda",
+      "price": "213",
+      "quantity": "234",
+      "category": "234",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "nm",
+      "email": "nm@gmail.com",
+      "password": "nm",
+      "place": "nm"
+    },
+    {
+      "id": 2,
+      "name": "asd",
+      "email": "asd@asd.com",
+      "password": "asd",
+      "place": "asd"
+    },
+    {
+      "name": "asda",
+      "email": "kjhk",
+      "password": "kjhkjh",
+      "place": "kjhkj",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "password": "asd",
+      "place": "XV",
+      "id": 4
+    },
+    {
+      "name": "nm",
+      "email": "kjaak",
+      "password": "asjdak",
+      "place": "lkdjfals",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "place": "",
+      "id": 6
+    }
+  ]
+}
